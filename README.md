@@ -1,3 +1,5 @@
 # Codesync
 Real-time multiuser synchronized code editor 
-<img width="960" alt="image" src="https://github.com/vedantpotekar/Code-editor/assets/80787731/64ed16d3-12eb-4b82-b8f3-b6629b676062">
+<br>
+![image](https://github.com/harshad-vitonde/Codesync/assets/146620493/2fe20f9c-597a-4a5e-bb86-3acad53400f1)
+
